@@ -18,3 +18,44 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.blue {
+  background-color: blue;
+}
+
+.font_white {
+  color: white;
+}
+
+.inline_block {
+  display: inline-block;
+}
+
+.light_green {
+  background-color: chartreuse;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.vertically_center {
+  display: flex;
+  align-items: center;
+}
+
+.font_size {
+  font-size: 8px;
+}
+
+.margin_right {
+  margin-right: 5px;
+}
+
+#regist {
+  display: flex;
+  width: 25px;
+  height: 20px;
+  align-items: center;
+}

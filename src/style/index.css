@@ -90,3 +90,36 @@ main {
 .margin_top {
   margin-top: 25px;
 }
+
+.article {
+  width: 29%;
+  height: 500px;
+}
+
+.center {
+  text-align: center;
+}
+
+.bottom {
+  width: 100%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.span {
+  display: inline-block;
+  width: 80%;
+}
+
+.container {
+  width: 0;
+  height: 0;
+  border: 5px solid;
+  border-color: white transparent transparent transparent;
+  top: 3px;
+  position: relative;
+}
